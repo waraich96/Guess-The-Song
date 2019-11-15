@@ -13,4 +13,11 @@
     <string name="test5">Suspendisse sagittis elementum ligula, quis ullamcorper orci posuere at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere.</string>
     <string name="test6">Cras sit amet blandit purus. Duis enim mi, auctor convallis dictum a, luctus vel quam.</string>
     <string name="collected_lyrics">Collected Lyrics</string>
+    <string name="return_button_description">Return button which returns the user to the start screen.</string>
+    <string name="lyrics_collected">Lyrics Collected</string>
+    <string name="your_points">Your Points</string>
+    <string name="power">Power</string>
+    <string name="number_of_attempts">Number Of Attempts Left:</string>
+    <string name="halve">Halve</string>
+    <string name="point_boost">Point Boost</string>
 </resources>

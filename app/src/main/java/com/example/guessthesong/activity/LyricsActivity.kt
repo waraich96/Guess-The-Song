@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.guessthesong.MyModel
 import com.example.guessthesong.R
 import com.example.guessthesong.LyricGuess
+import com.example.guessthesong.MainActivity
 import com.example.guessthesong.adapter.LyricsAdapter
 import kotlinx.android.synthetic.main.lyrics_activity.*
 
@@ -58,6 +59,11 @@ class LyricsActivity : AppCompatActivity() {
             finish()
         }
         return super.onOptionsItemSelected(item)
+    }
+
+    fun returnButClick(view: View){
+        val intent2 = Intent(this, MainActivity::class.java)
+        startActivity(intent2)
     }
 
     fun bottomNavigation(){
