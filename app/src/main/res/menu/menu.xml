@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/lyricsMenu"
+        android:icon="@drawable/baseline_home_line_24"
+        android:title="Lyrics"
+        />
+    <item
+        android:id="@+id/mapMenu"
+        android:icon="@drawable/search"
+        android:title="Collect"
+        />
+
+    <item
+        android:id="@+id/songMenu"
+        android:icon="@drawable/baseline_user_24"
+        android:title="Your Songs"
+        />
+</menu>

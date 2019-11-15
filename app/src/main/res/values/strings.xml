@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Guess The Song</string>
+    <string name="play_button">Play</string>
+    <string name="play_button_description">Play Button to start the game.</string>
+    <string name="classic_mode">Classic</string>
+    <string name="current_mode">Current</string>
+    <string name="rules_button_description">Rules Button to show the rules screen.</string>
+    <string name="test">It was all a dream, I used to read Word Up! magazine Salt-n-Pepa and Heavy D up in the limousine</string>
+    <string name="test1">At night I wake up with the sheets soaking wet/ And a freight train running through the/ Middle of my head / Only you can cool my desire.</string>
+    <string name="test2">When I get older losing my hair/ Many years from now/ Will you still be sending me a Valentine/ Birthday greetings bottle of wine?</string>
+    <string name="test3">Vestibulum malesuada metus in urna laoreet placerat. Phasellus sit amet gravida felis, non feugiat mi.</string>
+    <string name="test4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In volutpat sapien and ligula feugiat, tempus sodales elit lacinia. Nulla no.</string>
+    <string name="test5">Suspendisse sagittis elementum ligula, quis ullamcorper orci posuere at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere.</string>
+    <string name="test6">Cras sit amet blandit purus. Duis enim mi, auctor convallis dictum a, luctus vel quam.</string>
+    <string name="collected_lyrics">Collected Lyrics</string>
+</resources>
