@@ -22,11 +22,15 @@
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name=".activity.LyricsActivity"
+            android:name=".activity.GameActivity"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
             android:name=".LyricGuess"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".SongInfo"
             android:theme="@style/AppTheme.NoActionBar" />
 
 

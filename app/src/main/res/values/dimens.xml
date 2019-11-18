@@ -52,4 +52,5 @@
     <dimen name="shr_staggered_product_grid_spacing_large">30dp</dimen>
     <dimen name="shr_staggered_product_grid_spacing_small">26dp</dimen>
     <dimen name="shr_product_grid_reveal_height">200dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
 </resources>

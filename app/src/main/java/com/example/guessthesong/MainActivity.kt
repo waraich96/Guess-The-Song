@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Switch
 import android.widget.Toast
-import com.example.guessthesong.activity.LyricsActivity
+import com.example.guessthesong.activity.GameActivity
 import com.example.guessthesong.activity.RulesWalkthroughActivity
 
 class MainActivity : AppCompatActivity() {
@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         //val playButton = findViewById<View>(R.id.playButton) as ImageButton
         println(1)
 
-        val intent = Intent(this, LyricsActivity::class.java)
+        val intent = Intent(this, GameActivity::class.java)
         startActivity(intent)
 
 
