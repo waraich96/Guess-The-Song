@@ -7,6 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 
 import com.example.guessthesong.*
+import kotlinx.android.synthetic.main.fragment_map.*
 
 import kotlinx.android.synthetic.main.game_activity.*
 
@@ -27,15 +28,9 @@ class GameActivity : AppCompatActivity() {
                 finish()
             } else {
                 when (item.itemId) {
-                    R.id.lyricsMenu -> {
-                        replaceFragment(LyricsFragment())
-
-                    }
-                    R.id.mapMenu -> { }
-                    R.id.songMenu -> {
-                        replaceFragment(SongsFragment())
-
-                    }
+                    R.id.lyricsMenu -> { replaceFragment(LyricsFragment()) }
+                    R.id.mapMenu -> {replaceFragment(MapFragment()) }
+                    R.id.songMenu -> { replaceFragment(SongsFragment()) }
                 }
             }
             true

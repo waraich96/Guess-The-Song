@@ -36,8 +36,8 @@ class SongsFragment : Fragment() {
 
             songsAdapter.setOnItemClickListener(object : SongsAdapter.ClickListener {
                 override fun onClick(pos: Int, aView: View) {
-                    var intent = Intent(aView.context, SongInfo::class.java)
-                    startActivity(intent)
+                    var intent8 = Intent(aView.context, SongInfo::class.java)
+                    startActivity(intent8)
 
                 }
             })
@@ -49,7 +49,7 @@ class SongsFragment : Fragment() {
     private fun populateList(): ArrayList<SongModel> {
         val list = ArrayList<SongModel>()
         val myImageList = intArrayOf(R.drawable.points50, R.drawable.points150, R.drawable.points100)
-        val myImageNameList = arrayOf(R.string.test, R.string.test1, R.string.test2)
+        val myImageNameList = arrayOf(R.string.juicy, R.string.bob, R.string.prince)
 
         for (i in 0..2) {
             val imageModel = SongModel()

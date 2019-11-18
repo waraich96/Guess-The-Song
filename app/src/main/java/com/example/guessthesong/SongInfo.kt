@@ -8,7 +8,7 @@ class SongInfo : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.game_activity)
+        setContentView(R.layout.song_info)
     }
 
 }

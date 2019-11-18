@@ -21,5 +21,17 @@
     <string name="halve">Halve</string>
     <string name="point_boost">Point Boost</string>
 
+    <string name="artist">Artist:</string>
+    <string name="album">Album:</string>
+    <string name="song">Song:</string>
+    <string name="released">Released:</string>
+    <string name="genre">Genre:</string>
+    <string name="length">Length:</string>
+
+    <string name="juicy">The Notorious B.I.G. - Juicy</string>
+    <string name="bob">Bob Marley - Buffalo soldier</string>
+    <string name="prince">Prince – “Sign O’ The Times”</string>
+    <string name="title_activity_maps">Map</string>
+
 
 </resources>
