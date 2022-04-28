@@ -4,7 +4,8 @@ I design and implement a location-based song guessing game on the for the Androi
 
 # Files of interest
 
-  - Readme.pdf: Provides a in-depth breakdown of all the classes and their functions.
+  - ReadMe.pdf: Provides a in-depth breakdown of all the classes and their functions.
   - Guess Song (Overview).mp4: Video demonstrating all the features of the application.
   - GuessTheSong.apk: The app apk file.
 
+[ReadMe.pdf](https://github.com/waraich96/Guess-The-Song/files/8586734/ReadMe.pdf)
